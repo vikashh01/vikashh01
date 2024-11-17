@@ -1,10 +1,5 @@
 # 💻 Vikash Kumar Bharti - Software Development Engineer in Test (SDET) 🚀
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vikash-kumar-bharti/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/vikashkumarbharti)
-
 ---
-
 ## 🌟 About Me
 Hi there! I'm **Vikash Kumar Bharti**, a passionate **Software Development Engineer in Test (SDET)** with expertise in both manual and automation testing. I thrive on ensuring software quality and building reliable test frameworks with tools like **Cypress**, **Selenium**, and **Postman**.  
 
