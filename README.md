@@ -36,7 +36,7 @@ Hi there! I'm **Vikash Kumar Bharti**, a passionate **Software Development Engin
 
 ## 🤝 Let's Connect
 - 📧 **Email:** [vikashkumarbharti@example.com](https://mail.google.com/mail/u/0/#inbox)  
-- 💼 **LinkedIn:** [Vikash Kumar Bharti]([https://www.linkedin.com/in/vikash-kumar-bharti/](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumarbharti&layout=compact&theme=radical])(https://www.linkedin.com/in/vikash-kumar-bharti-02017430a/))
+- 💼 **LinkedIn:** [Vikash Kumar Bharti]([https://www.linkedin.com/in/vikash-kumar-bharti/](https://github-readme-stats.vercel.app/api/top-langs/?username=vikashkumarbharti&layout=compact&theme=radical](https://www.linkedin.com/in/vikash-kumar-bharti-02017430a/))
 
 ---
 
