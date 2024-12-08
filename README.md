@@ -29,7 +29,7 @@ Hi there! I'm **Vikash Kumar Bharti**, a passionate **Software Development Engin
 ## 🏆 Achievements
 - **Masai Speaking Marathon Season XVIII Half-Marathon**: Completed 26 sprints in under a month, enhancing communication and presentation skills.  
 - **Manual Testing Certification**: Mastered manual testing techniques and applied them to real-world projects.  
-
+- **Automation Testing Certification**: Mastered Cypress as an automation testing tool to write, execute, and manage test scripts efficiently.
 ---
 
 
